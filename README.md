@@ -1,4 +1,4 @@
-# Bondi-bootstrap-5-project 
+# Bondi-bootstrap-5-project-elzero 
 
 this is a simple bootstrap template . it contains html file and bootstrap file.
 
@@ -49,7 +49,7 @@ Otherwise, all links will open in the same tab.
 
  ## Screenshot
  
-![Screenshot]()
+![Screenshot](./imgs/bondi.png)
 
 
 ## what-i-learned
@@ -63,7 +63,8 @@ In the future, I plan to:
 ### Author
 
 GitHub - @olahasan
+**[olahasan](https://github.com/olahasan)**
 
 ### Acknowledgments
 
-I would like to thank the **[iti](https://iti.gov.eg/home)** for providing this challenge and to the community for their support.
+I would like to thank the **[أكاديمية الزيرو](https://elzero.org/)** for providing this challenge and to the community for their support.
