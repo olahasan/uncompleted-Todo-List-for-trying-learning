@@ -1,22 +1,25 @@
-# Bondi-bootstrap-5-project-elzero 
+# uncompleted-Todo-List-for-trying-learning
 
-this is a simple bootstrap template . it contains html file and bootstrap file.
+in this simple Todo List application itryied to use [hooks and react-bootstrap] and tryied to send props, at the end i tryed to push it using github+gh-pages but after i changed the name of repo on gethub the live-like failed. It allows users to add and delete todo items. the app is uncompleted because it was uncompleted.
 
 ## Table of contents
 
 - [Overview](#overview)
 - [Features](#Features)
+- [Components](#Components)
+  - [App](#App)
+  - [form](#form)
 - [Installation](#Installation)
+- [Usage](#Usage)
 - [Links](#Links)
 - [Screenshot](#Screenshot)
 - [What I learned](#what-i-learned)
 - [Continued development](#continued-development)
 - [Author](#author)
-- [Acknowledgments](#Acknowledgments)
 
 
 ## overview
-this is a simple bootstrap template . it contains html file and bootstrap file.
+in this simple Todo List application itryied to use [hooks and react-bootstrap] and tryied to send props, at the end i tryed to push it using github+gh-pages. It allows users to add and delete todo items. the app is uncompleted because it was uncompleted.
 
 
 ## Features
@@ -24,14 +27,37 @@ this is a simple bootstrap template . it contains html file and bootstrap file.
 - Delete existing todo items
 
 
+## Components
+
+### App
+
+The main component that show form component on screen
+
+### form
+
+it contains the whole logic
+
+
 ## Installation
 To get started with this project, follow these steps:
 
 you can clone the project or download it as Zip file.
- Clone the repository:
+1. Clone the repository:
    ```bash
-   git clone https://github.com/olahasan/Bondi-bootstrap-5-project.git
-```
+   git clone https://github.com/olahasan/uncompleted-Todo-List-for-trying-learning.git
+
+2. Navigate to the project directory:
+   cd <project-directory>
+
+3. Install the required dependencies:
+   npm install   
+
+
+## Usage
+To run the application, use the following command:
+
+npm start
+
 
 ## Links
 
@@ -42,29 +68,24 @@ If you want to open the link in a new tab, you can:
 
 Otherwise, all links will open in the same tab.
 
-- Solution URL: [here](https://github.com/olahasan/Bondi-bootstrap-5-project)
 
-- Live Site URL: [here](https://olahasan.github.io/Bondi-bootstrap-5-project/)
+- Solution URL: [here](https://github.com/olahasan/uncompleted-Todo-List-for-trying-learning)
 
+- Live Site URL: [here](https://btangannnnn-app-v222.netlify.app/)
 
  ## Screenshot
  
-![Screenshot](./imgs/bondi.png)
+![Screenshot](./public/todolist.png)
 
 
 ## what-i-learned
-Through this project, I learned how to use html with bootstrap-5 ,
-how to push it on github+gh-pages
+Through this project, I learned in this simple project how to create react app,
+how to add and delete item and how to deploy it on github+gh-pages
 
 ## Continued Development
 In the future, I plan to:
-- learn javascript and reactJs and ....
+- learn more reactJs Hooks.
 
 ### Author
 
 GitHub - @olahasan
-**[olahasan](https://github.com/olahasan)**
-
-### Acknowledgments
-
-I would like to thank the **[أكاديمية الزيرو](https://elzero.org/)** for providing this challenge and to the community for their support.
