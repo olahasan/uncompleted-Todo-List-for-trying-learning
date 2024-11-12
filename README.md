@@ -71,7 +71,7 @@ Otherwise, all links will open in the same tab.
 
 - Solution URL: [here](https://github.com/olahasan/uncompleted-Todo-List-for-trying-learning)
 
-- Live Site URL: [here](https://btangannnnn-app-v222.netlify.app/)
+- Live Site URL: [here](https://iridescent-narwhal-d91f17.netlify.app/) OR [here](https://btangannnnn-app-v222.netlify.app/)
 
  ## Screenshot
  
