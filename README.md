@@ -75,7 +75,7 @@ Otherwise, all links will open in the same tab.
 
  ## Screenshot
  
-![Screenshot](./public/todolist.png)
+![Screenshot](./public/todo.png)
 
 
 ## what-i-learned
